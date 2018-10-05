@@ -2,8 +2,10 @@
 
 ![](https://i.imgur.com/uvJSLd4.jpg)
 
-Source code links are in the slides. Also [be sure to also bookmark this Kotlin Math cheat sheet](https://github.com/thomasnield/kotlin_math_cheatsheet/blob/master/README.md).
 
+This repository contains the slides for the "Mathematical Modeling with Kotlin" talk at KotlinConf 2018, and links to the optimization and machine learning examples source code.
+
+**Please be sure to to read the appendix slides for resources and fun links!**
 
 
 ## Demo Source Code 
