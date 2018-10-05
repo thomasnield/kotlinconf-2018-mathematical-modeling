@@ -2,6 +2,7 @@
 
 ![](https://i.imgur.com/uvJSLd4.jpg)
 
+[View Slides Here](https://github.com/thomasnield/kotlinconf-2018-mathematical-modeling/blob/master/kotlinconf_slides_2018.pdf)
 
 This repository contains the slides for the "Mathematical Modeling with Kotlin" talk at KotlinConf 2018, and links to the optimization and machine learning examples source code.
 
