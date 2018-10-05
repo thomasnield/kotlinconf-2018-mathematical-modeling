@@ -25,7 +25,7 @@ Source code links are in the slides. Also [be sure to also bookmark this Kotlin 
 
 ## Other Links
 
- [Kotlin Math Cheat Sheet](https://github.com/thomasnield/kotlin_math_cheatsheet/blob/master/README.md
+ [Kotlin Math Cheat Sheet](https://github.com/thomasnield/kotlin_math_cheatsheet/blob/master/README.md)
  
  [Kotlin Data Science Resources](https://github.com/thomasnield/kotlin-data-science-resources)
  
