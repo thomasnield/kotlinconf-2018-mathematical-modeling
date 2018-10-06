@@ -8,9 +8,6 @@ This repository contains the slides for the "Mathematical Modeling with Kotlin" 
 
 **Please be sure to to read the appendix slides for resources and fun links!**
 
-If you want to follow more Kotlin optimization and machine learning tutorials, follow [this playlist on my YouTube Channcel](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU
-). 
-
 ## Demo Source Code 
 
 [Traveling Salesman Problem](https://github.com/thomasnield/traveling_salesman_demo)
@@ -35,3 +32,5 @@ If you want to follow more Kotlin optimization and machine learning tutorials, f
  [Kotlin Data Science Resources](https://github.com/thomasnield/kotlin-data-science-resources)
  
  [Kotlin-Statistics](https://github.com/thomasnield/kotlin-statistics)
+
+ [Thomas Nield on YouTube](https://www.youtube.com/playlist?list=PLYDlqiU6gadsBEHh-N861iWcBzazs4sEU)
