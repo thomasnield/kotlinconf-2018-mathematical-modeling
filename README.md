@@ -8,6 +8,10 @@ This repository contains the slides for the "Mathematical Modeling with Kotlin" 
 
 **Please be sure to to read the appendix slides for resources and fun links!**
 
+## Video is Now On Youtube
+
+[![](https://img.youtube.com/vi/-zTqtEcnM7A/hqdefault.jpg)](https://youtu.be/-zTqtEcnM7A)
+
 ## Demo Source Code 
 
 [Traveling Salesman Problem](https://github.com/thomasnield/traveling_salesman_demo)
